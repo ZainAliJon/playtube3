@@ -75,7 +75,6 @@ if (isset($_GET['code']) && !empty($_GET['code'])) {
                     );
                     $insert              = $db->insert(T_SESSIONS, $insert_data);
                     $_SESSION['user_id'] = $session_id;
-                    $_SESSION['original_id'] = $login->id;
                     setcookie("user_id", $session_id, time() + (10 * 365 * 24 * 60 * 60), "/");
                     header("Location: " . PT_Link(''));
                     exit();

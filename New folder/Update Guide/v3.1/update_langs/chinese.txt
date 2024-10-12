@@ -1,0 +1,17 @@
+UPDATE `langs` SET `chinese` = '星期' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `chinese` = '自由的' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `chinese` = '您无权执行以下操作。' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `chinese` = '视频地址已成功更新。' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `chinese` = '快速支付' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `chinese` = '布伦特里' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `chinese` = '切换账户' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `chinese` = '新增帐户' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `chinese` = 'Braintree 未激活，或者您输入了无效密钥。' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `chinese` = '米' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `chinese` = 'H' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `chinese` = '小时' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `chinese` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `chinese` = '在' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `chinese` = '和' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `chinese` = '年' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `chinese` = '现在' WHERE `lang_key` = 'now';

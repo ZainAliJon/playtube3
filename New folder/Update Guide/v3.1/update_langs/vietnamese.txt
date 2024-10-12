@@ -1,0 +1,17 @@
+UPDATE `langs` SET `vietnamese` = 'Tuần' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `vietnamese` = 'Miễn phí' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `vietnamese` = 'Bạn không có quyền thực hiện hành động sau.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `vietnamese` = 'Url video đã được cập nhật thành công.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `vietnamese` = 'Thanh toán nhanh' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `vietnamese` = 'Braintree' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `vietnamese` = 'Chuyển tài khoản' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `vietnamese` = 'Thêm tài khoản' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `vietnamese` = 'Braintree không hoạt động hoặc bạn đã nhập khóa không hợp lệ.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `vietnamese` = 'tôi' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `vietnamese` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `vietnamese` = 'giờ' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `vietnamese` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `vietnamese` = 'TRONG' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `vietnamese` = 'Và' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `vietnamese` = 'năm' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `vietnamese` = 'Hiện nay' WHERE `lang_key` = 'now';

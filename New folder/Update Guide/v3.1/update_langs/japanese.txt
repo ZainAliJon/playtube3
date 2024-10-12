@@ -1,0 +1,17 @@
+UPDATE `langs` SET `japanese` = '週' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `japanese` = '無料' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `japanese` = '次のアクションを実行する権限がありません。' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `japanese` = '動画の URL が正常に更新されました。' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `japanese` = 'ペイファスト' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `japanese` = 'ブレインツリー' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `japanese` = 'アカウントを切り替える' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `japanese` = 'アカウントを追加する' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `japanese` = 'Braintree がアクティブではないか、無効なキーを入力しました。' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `japanese` = 'メートル' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `japanese` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `japanese` = '時間' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `japanese` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `japanese` = 'で' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `japanese` = 'そして' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `japanese` = '年' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `japanese` = '今' WHERE `lang_key` = 'now';

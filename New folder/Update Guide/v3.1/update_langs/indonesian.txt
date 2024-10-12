@@ -1,0 +1,17 @@
+UPDATE `langs` SET `indonesian` = 'Pekan' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `indonesian` = 'Bebas' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `indonesian` = 'Anda tidak memiliki izin untuk melakukan tindakan berikut.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `indonesian` = 'Url video telah berhasil diperbarui.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `indonesian` = 'Bayaran cepat' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `indonesian` = 'pohon otak' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `indonesian` = 'Ganti akun' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `indonesian` = 'Menambahkan akun' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `indonesian` = 'Braintree tidak aktif, atau Anda memasukkan kunci yang tidak valid.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `indonesian` = 'M' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `indonesian` = 'H' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `indonesian` = 'jam' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `indonesian` = 'D' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `indonesian` = 'Di dalam' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `indonesian` = 'Dan' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `indonesian` = 'tahun' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `indonesian` = 'Sekarang' WHERE `lang_key` = 'now';

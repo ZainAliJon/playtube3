@@ -1,0 +1,17 @@
+UPDATE `langs` SET `spanish` = 'Semana' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `spanish` = 'Gratis' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `spanish` = 'No tiene permiso para realizar la siguiente acción.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `spanish` = 'La URL del vídeo se ha actualizado correctamente.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `spanish` = 'Pago rápido' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `spanish` = 'cerebro' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `spanish` = 'Cambiar cuenta' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `spanish` = 'Añadir cuenta' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `spanish` = 'Braintree no está activo o ingresó claves no válidas.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `spanish` = 'metro' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `spanish` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `spanish` = 'horas' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `spanish` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `spanish` = 'En' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `spanish` = 'y' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `spanish` = 'años' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `spanish` = 'ahora' WHERE `lang_key` = 'now';

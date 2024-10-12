@@ -1,0 +1,17 @@
+UPDATE `langs` SET `urdu` = 'ہفتہ' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `urdu` = 'مفت' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `urdu` = 'آپ کو درج ذیل کارروائی کرنے کی اجازت نہیں ہے۔' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `urdu` = 'ویڈیو یو آر ایل کو کامیابی کے ساتھ اپ ڈیٹ کر دیا گیا ہے۔' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `urdu` = 'پے فاسٹ' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `urdu` = 'برینٹری' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `urdu` = 'کھاتہ بدلیں' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `urdu` = 'اکاؤنٹ کا اضافہ' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `urdu` = 'Braintree فعال نہیں ہے، یا آپ نے غلط کلیدیں درج کی ہیں۔' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `urdu` = 'm' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `urdu` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `urdu` = 'گھنٹے' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `urdu` = 'ڈی' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `urdu` = 'میں' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `urdu` = 'اور' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `urdu` = 'سال' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `urdu` = 'ابھی' WHERE `lang_key` = 'now';

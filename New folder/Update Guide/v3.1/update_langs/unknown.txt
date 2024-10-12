@@ -1,0 +1,17 @@
+UPDATE `langs` SET `{unknown}` = 'Week' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `{unknown}` = 'Free' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `{unknown}` = 'You do not have permission to do the following action.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `{unknown}` = 'The video url has been updated successfully.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `{unknown}` = 'Payfast' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `{unknown}` = 'Braintree' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `{unknown}` = 'Switch Account' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `{unknown}` = 'Add Account' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `{unknown}` = 'Braintree is not active, or you entered invalid keys.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `{unknown}` = 'm' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `{unknown}` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `{unknown}` = 'hrs' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `{unknown}` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `{unknown}` = 'w' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `{unknown}` = 'y' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `{unknown}` = 'yrs' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `{unknown}` = 'now' WHERE `lang_key` = 'now';

@@ -1,0 +1,17 @@
+UPDATE `langs` SET `arabic` = 'أسبوع' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `arabic` = 'حر' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `arabic` = 'ليس لديك الإذن للقيام بالإجراء التالي.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `arabic` = 'تم تحديث عنوان URL للفيديو بنجاح.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `arabic` = 'بايفاست' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `arabic` = 'برينتري' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `arabic` = 'تبديل الحساب' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `arabic` = 'إضافة حساب' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `arabic` = 'Braintree غير نشط، أو أنك أدخلت مفاتيح غير صالحة.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `arabic` = 'م' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `arabic` = 'ح' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `arabic` = 'ساعة' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `arabic` = 'د' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `arabic` = 'في' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `arabic` = 'و' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `arabic` = 'سنوات' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `arabic` = 'الآن' WHERE `lang_key` = 'now';

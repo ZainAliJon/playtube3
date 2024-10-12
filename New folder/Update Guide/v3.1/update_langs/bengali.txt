@@ -1,0 +1,17 @@
+UPDATE `langs` SET `bengali` = 'সপ্তাহ' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `bengali` = 'বিনামূল্যে' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `bengali` = 'আপনার কাছে নিম্নলিখিত ক্রিয়াটি করার অনুমতি নেই৷' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `bengali` = 'ভিডিও url সফলভাবে আপডেট করা হয়েছে.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `bengali` = 'পেফাস্ট' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `bengali` = 'ব্রেনট্রি' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `bengali` = 'সুইচ অ্যাকাউন্ট' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `bengali` = 'হিসাব যোগ করা' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `bengali` = 'Braintree সক্রিয় নয়, অথবা আপনি অবৈধ কী প্রবেশ করান.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `bengali` = 'মি' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `bengali` = 'জ' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `bengali` = 'ঘন্টা' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `bengali` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `bengali` = 'ভিতরে' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `bengali` = 'এবং' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `bengali` = 'বছর' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `bengali` = 'এখন' WHERE `lang_key` = 'now';

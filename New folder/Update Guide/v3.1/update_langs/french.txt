@@ -1,0 +1,17 @@
+UPDATE `langs` SET `french` = 'Semaine' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `french` = 'Gratuit' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `french` = 'Vous n&#39;êtes pas autorisé à effectuer l&#39;action suivante.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `french` = 'L&#39;URL de la vidéo a été mise à jour avec succès.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `french` = 'Payer rapidement' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `french` = 'Arbre cérébral' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `french` = 'Changer de compte' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `french` = 'Ajouter un compte' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `french` = 'Braintree n&#39;est pas actif ou vous avez saisi des clés non valides.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `french` = 'm' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `french` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `french` = 'heures' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `french` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `french` = 'Dans' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `french` = 'et' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `french` = 'années' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `french` = 'maintenant' WHERE `lang_key` = 'now';

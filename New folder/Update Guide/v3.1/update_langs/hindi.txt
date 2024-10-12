@@ -1,0 +1,17 @@
+UPDATE `langs` SET `hindi` = 'सप्ताह' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `hindi` = 'मुक्त' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `hindi` = 'आपको निम्नलिखित कार्रवाई करने की अनुमति नहीं है.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `hindi` = 'वीडियो यूआरएल सफलतापूर्वक अपडेट कर दिया गया है.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `hindi` = 'शीघ्र भुगतान करें' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `hindi` = 'ब्रेनट्री' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `hindi` = 'खाता स्थानांतरित करें' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `hindi` = 'खाता जोड़ें' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `hindi` = 'ब्रेनट्री सक्रिय नहीं है, या आपने अमान्य कुंजियाँ दर्ज की हैं।' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `hindi` = 'एम' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `hindi` = 'एच' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `hindi` = 'घंटे' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `hindi` = 'डी' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `hindi` = 'में' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `hindi` = 'और' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `hindi` = 'वर्षीय' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `hindi` = 'अब' WHERE `lang_key` = 'now';

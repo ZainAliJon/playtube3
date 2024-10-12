@@ -1,0 +1,17 @@
+UPDATE `langs` SET `filipino` = 'Linggo' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `filipino` = 'Libre' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `filipino` = 'Wala kang pahintulot na gawin ang sumusunod na pagkilos.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `filipino` = 'Matagumpay na na-update ang url ng video.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `filipino` = 'Payfast' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `filipino` = 'Braintree' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `filipino` = 'Lumipat ng Account' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `filipino` = 'Magdagdag ng account' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `filipino` = 'Hindi aktibo ang Braintree, o nagpasok ka ng mga di-wastong key.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `filipino` = 'm' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `filipino` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `filipino` = 'oras' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `filipino` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `filipino` = 'Sa' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `filipino` = 'at' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `filipino` = 'taon' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `filipino` = 'ngayon' WHERE `lang_key` = 'now';

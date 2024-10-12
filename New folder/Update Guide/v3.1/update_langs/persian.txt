@@ -1,0 +1,17 @@
+UPDATE `langs` SET `persian` = 'هفته' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `persian` = 'رایگان' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `persian` = 'شما اجازه انجام عمل زیر را ندارید.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `persian` = 'آدرس ویدیو با موفقیت به روز شد.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `persian` = 'پرداخت' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `persian` = 'Braintree' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `persian` = 'تعویض حساب' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `persian` = 'اضافه کردن حساب' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `persian` = 'Braintree فعال نیست یا کلیدهای نامعتبر وارد کرده اید.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `persian` = 'متر' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `persian` = 'ساعت' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `persian` = 'ساعت' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `persian` = 'د' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `persian` = 'که در' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `persian` = 'و' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `persian` = 'سال' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `persian` = 'اکنون' WHERE `lang_key` = 'now';

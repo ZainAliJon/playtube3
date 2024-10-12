@@ -1,0 +1,17 @@
+UPDATE `langs` SET `croatian` = 'Tjedan' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `croatian` = 'Besplatno' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `croatian` = 'Nemate dozvolu za sljedeće radnje.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `croatian` = 'URL videozapisa je uspješno ažuriran.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `croatian` = 'Payfast' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `croatian` = 'Braintree' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `croatian` = 'Promijeniti račun' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `croatian` = 'Dodaj račun' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `croatian` = 'Braintree nije aktivan ili ste unijeli nevažeće ključeve.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `croatian` = 'm' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `croatian` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `croatian` = 'sati' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `croatian` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `croatian` = 'U' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `croatian` = 'i' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `croatian` = 'god' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `croatian` = 'sada' WHERE `lang_key` = 'now';

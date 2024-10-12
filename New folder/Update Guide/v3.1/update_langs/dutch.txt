@@ -1,0 +1,17 @@
+UPDATE `langs` SET `dutch` = 'Week' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `dutch` = 'Vrij' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `dutch` = 'U heeft geen toestemming om de volgende actie uit te voeren.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `dutch` = 'De video-URL is succesvol bijgewerkt.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `dutch` = 'Betaal snel' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `dutch` = 'Hersenboom' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `dutch` = 'Verwissel van profiel' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `dutch` = 'Account toevoegen' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `dutch` = 'Braintree is niet actief of u heeft ongeldige sleutels ingevoerd.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `dutch` = 'M' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `dutch` = 'H' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `dutch` = 'uur' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `dutch` = 'D' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `dutch` = 'In' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `dutch` = 'En' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `dutch` = 'jaar' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `dutch` = 'nu' WHERE `lang_key` = 'now';

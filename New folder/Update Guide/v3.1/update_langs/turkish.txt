@@ -1,0 +1,17 @@
+UPDATE `langs` SET `turkish` = 'Hafta' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `turkish` = 'Özgür' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `turkish` = 'Aşağıdaki işlemi yapma izniniz yok.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `turkish` = 'Video URL&#39;si başarıyla güncellendi.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `turkish` = 'Ödeme Hızlı' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `turkish` = 'Beyin Ağacı' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `turkish` = 'Hesap değiştir' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `turkish` = 'Hesap eklemek' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `turkish` = 'Braintree etkin değil veya geçersiz anahtarlar girdiniz.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `turkish` = 'M' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `turkish` = 'H' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `turkish` = 'saat' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `turkish` = 'D' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `turkish` = 'İçinde' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `turkish` = 'Ve' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `turkish` = 'yıllar' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `turkish` = 'Şimdi' WHERE `lang_key` = 'now';

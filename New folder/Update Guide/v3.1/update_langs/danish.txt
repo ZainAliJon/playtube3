@@ -1,0 +1,17 @@
+UPDATE `langs` SET `danish` = 'Uge' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `danish` = 'Gratis' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `danish` = 'Du har ikke tilladelse til at udføre følgende handling.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `danish` = 'Videoens webadresse er blevet opdateret.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `danish` = 'Payfast' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `danish` = 'Braintree' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `danish` = 'Skift konto' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `danish` = 'Tilføj konto' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `danish` = 'Braintree er ikke aktiv, eller du har indtastet ugyldige nøgler.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `danish` = 'm' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `danish` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `danish` = 'timer' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `danish` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `danish` = 'I' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `danish` = 'og' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `danish` = 'år' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `danish` = 'nu' WHERE `lang_key` = 'now';

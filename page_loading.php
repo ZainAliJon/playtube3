@@ -13,10 +13,10 @@
 require_once('./assets/init.php');
 decryptConfigData();
 $servername = "localhost";
-$username = "u144950326_e_ai";
-$password = "Devquire@512514";
-$dbname = "u144950326_e_ai";
-
+$username = "root";
+$password = "";
+$dbname = "e-ai";
+date_default_timezone_set('Asia/Karachi');
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -25,9 +25,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
-$login               = $db->getOne(T_USERS);
-$user_id = @$login->id;
-date_default_timezone_set('Asia/Karachi');
+$user_id = @$_SESSION['user_id'];
 $active_time_limit = date("Y-m-d H:i:s", strtotime('-5 minutes'));
 $sql = "INSERT INTO user_sessions (user_id, last_activity) VALUES ('$user_id', NOW()) ON DUPLICATE KEY UPDATE last_activity = NOW()";
 $result = $conn->query($sql);

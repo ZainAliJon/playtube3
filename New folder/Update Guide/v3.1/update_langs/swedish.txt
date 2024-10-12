@@ -1,0 +1,17 @@
+UPDATE `langs` SET `swedish` = 'Vecka' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `swedish` = 'Fri' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `swedish` = 'Du har inte behörighet att utföra följande åtgärd.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `swedish` = 'Videons webbadress har uppdaterats.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `swedish` = 'Payfast' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `swedish` = 'Braintree' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `swedish` = 'Byt konto' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `swedish` = 'Lägg till konto' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `swedish` = 'Braintree är inte aktivt, eller så har du angett ogiltiga nycklar.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `swedish` = 'm' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `swedish` = 'h' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `swedish` = 'timmar' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `swedish` = 'd' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `swedish` = 'I' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `swedish` = 'och' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `swedish` = 'år' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `swedish` = 'nu' WHERE `lang_key` = 'now';

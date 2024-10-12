@@ -11,14 +11,14 @@
 // MySQL Hostname
 $sql_db_host = "localhost";
 // MySQL Database User
-$sql_db_user = "u144950326_e_ai";
+$sql_db_user = "root";
 // MySQL Database Password
-$sql_db_pass = "Devquire@512514";
+$sql_db_pass = "";
 // MySQL Database Name
-$sql_db_name = "u144950326_e_ai";
+$sql_db_name = "e-ai";
 
 // Site URL
-$site_url = "https://e-ai.dailycodefix.com"; // e.g (http://example.com)
+$site_url = "http://localhost/playtube"; // e.g (http://example.com)
 
 // Purchase code
 $purchase_code = "3bb20e65-f881-4c14-a786-549a0da87fc7"; // Your purchase code, don't give it to anyone.

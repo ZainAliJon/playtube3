@@ -1,0 +1,17 @@
+UPDATE `langs` SET `russian` = 'Неделя' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `russian` = 'Бесплатно' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `russian` = 'У вас нет разрешения на выполнение следующего действия.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `russian` = 'URL-адрес видео успешно обновлен.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `russian` = 'Payfast' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `russian` = 'Брейнтри' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `russian` = 'Сменить аккаунт' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `russian` = 'Добавить аккаунт' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `russian` = 'Braintree не активен, или вы ввели неверные ключи.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `russian` = 'м' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `russian` = 'час' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `russian` = 'часы' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `russian` = 'д' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `russian` = 'В' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `russian` = 'и' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `russian` = 'годы' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `russian` = 'сейчас' WHERE `lang_key` = 'now';

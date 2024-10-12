@@ -1,0 +1,17 @@
+UPDATE `langs` SET `hebrew` = 'שָׁבוּעַ' WHERE `lang_key` = 'week';
+UPDATE `langs` SET `hebrew` = 'חינם' WHERE `lang_key` = 'free';
+UPDATE `langs` SET `hebrew` = 'אין לך הרשאה לבצע את הפעולה הבאה.' WHERE `lang_key` = 'you_do_not_permission';
+UPDATE `langs` SET `hebrew` = 'כתובת האתר של הסרטון עודכנה בהצלחה.' WHERE `lang_key` = 'video_url_changed_successfully';
+UPDATE `langs` SET `hebrew` = 'Payfast' WHERE `lang_key` = 'payfast';
+UPDATE `langs` SET `hebrew` = 'Braintree' WHERE `lang_key` = 'braintree';
+UPDATE `langs` SET `hebrew` = 'החלף חשבון' WHERE `lang_key` = 'switch_account';
+UPDATE `langs` SET `hebrew` = 'הוסף חשבון' WHERE `lang_key` = 'add_account';
+UPDATE `langs` SET `hebrew` = 'Braintree אינו פעיל, או שהזנת מפתחות לא חוקיים.' WHERE `lang_key` = 'braintree_not_active';
+UPDATE `langs` SET `hebrew` = 'M' WHERE `lang_key` = '_time_m';
+UPDATE `langs` SET `hebrew` = 'ח' WHERE `lang_key` = '_time_h';
+UPDATE `langs` SET `hebrew` = 'שעות' WHERE `lang_key` = '_time_hrs';
+UPDATE `langs` SET `hebrew` = 'ד' WHERE `lang_key` = '_time_d';
+UPDATE `langs` SET `hebrew` = 'ב' WHERE `lang_key` = '_time_w';
+UPDATE `langs` SET `hebrew` = 'ו' WHERE `lang_key` = '_time_y';
+UPDATE `langs` SET `hebrew` = 'שנים' WHERE `lang_key` = '_time_yrs';
+UPDATE `langs` SET `hebrew` = 'עַכשָׁיו' WHERE `lang_key` = 'now';
